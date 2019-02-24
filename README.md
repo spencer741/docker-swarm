@@ -1,3 +1,5 @@
+Cloned and re-uploaded from docker samples. Playground repository.
+
 Example Voting App
 =========
 
